@@ -7,7 +7,9 @@ permalink: /privacy/
 # Yawnly Privacy Policy
 
 **Effective date:** September 26, 2026
-**Developer:** Krasimir Mihaylov (Forged by AI), Bulgaria
+
+**Developer:** Forged By AI, Bulgaria
+
 **Contact:** forgedbyai@gmail.com
 
 Yawnly is a baby nap predictor. This policy explains what the app does with information, in plain language.
@@ -57,4 +59,4 @@ We will post any changes to this page and update the effective date. Material ch
 
 ## Contact
 
-Krasimir Mihaylov (Forged by AI), Yambol 8600, Bulgaria, forgedbyai@gmail.com
+Forged By AI, Bulgaria, forgedbyai@gmail.com

@@ -7,7 +7,9 @@ permalink: /terms/
 # Yawnly Terms of Use
 
 **Effective date:** September 26, 2026
-**Provider:** Krasimir Mihaylov (Forged by AI), Yambol 8600, Bulgaria ("we", "us")
+
+**Provider:** Forged By AI, Bulgaria ("we", "us")
+
 **Contact:** forgedbyai@gmail.com
 
 By downloading or using Yawnly (the "App") you agree to these terms and to Apple's Licensed Application End User License Agreement (EULA), which applies to the App as the minimum terms. Where these terms give you more rights, these terms apply.
@@ -53,4 +55,4 @@ These terms are governed by the laws of the Republic of Bulgaria, without affect
 
 ## 9. Contact
 
-Krasimir Mihaylov (Forged by AI), Yambol 8600, Bulgaria, forgedbyai@gmail.com
+Forged By AI, Bulgaria, forgedbyai@gmail.com
